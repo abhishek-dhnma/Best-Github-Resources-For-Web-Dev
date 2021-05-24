@@ -42,5 +42,14 @@ Don't Forgot To :star2:
 [10]: https://github.com/lauragift21/awesome-learning-resources
 
 
-If You Wanna Contribute To the List
-Fork & Pull Request
+# Contribution Guidelines
+
+Please ensure your pull request adheres to the following guidelines:
+
+- Suggested Github Profile READMEs should be beautiful or stand out in some way.
+- Make an individual pull request for each suggestion.
+- Can suggest for different categories as well.
+- Start the Name with a capital.
+- Check your spelling and grammar.
+
+Thank you for your suggestions!
