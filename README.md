@@ -1,7 +1,8 @@
 # Best Github Resources For Web Developers 
 
-[![GitHub watchers](https://img.shields.io/github/watchers/abhishek-dhnma/Best-Github-Resources-For-Web-Dev?style=social)](https://github.com/abhishek-dhnma)
 [![GitHub Repo stars](https://img.shields.io/github/stars/abhishek-dhnma/Best-Github-Resources-For-Web-Dev?style=social)](https://github.com/abhishek-dhnma)
+![GitHub forks](https://img.shields.io/github/forks/abhishek-dhnma/Best-Github-Resources-For-Web-Dev?style=social)
+[![GitHub watchers](https://img.shields.io/github/watchers/abhishek-dhnma/Best-Github-Resources-For-Web-Dev?style=social)](https://github.com/abhishek-dhnma)
 ![](https://img.shields.io/badge/Thank-You-lightgrey)
 
 1. ### [Frontend Dev Bookmarks][1]
