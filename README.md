@@ -1,4 +1,4 @@
-# Best Github Resources For Web Developers 
+# Best Github Resources For Web Developers 👨‍💻
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/abhishek-dhnma/Best-Github-Resources-For-Web-Dev?style=social)](https://github.com/abhishek-dhnma)
 ![GitHub forks](https://img.shields.io/github/forks/abhishek-dhnma/Best-Github-Resources-For-Web-Dev?style=social)
@@ -26,9 +26,8 @@
 10. ### [Awesome learning resources][10]
 
 <br>
-Don't Forgot To :star2:
 
-
+# Don't Forgot To :star2:
 
 [1]: https://github.com/dypsilon/frontend-dev-bookmarks
 [2]: https://github.com/EbookFoundation/free-programming-books
@@ -42,14 +41,5 @@ Don't Forgot To :star2:
 [10]: https://github.com/lauragift21/awesome-learning-resources
 
 
-# Contribution Guidelines
+# Contribute ❤️
 
-Please ensure your pull request adheres to the following guidelines:
-
-- Suggested Github Profile READMEs should be beautiful or stand out in some way.
-- Make an individual pull request for each suggestion.
-- Can suggest for different categories as well.
-- Start the Name with a capital.
-- Check your spelling and grammar.
-
-Thank you for your suggestions!
